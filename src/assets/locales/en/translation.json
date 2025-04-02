@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "activities": "Our Activities",
+    "news": "News & Blog",
+    "partnerships": "Partnerships",
+    "gallery": "Gallery",
+    "testimonials": "Testimonials",
+    "contact": "Contact & Membership"
+  },
+  "home": {
+    "slogan": "Building bridges between Morocco and Germany",
+    "intro": "The Association of Friends of Germany is a non-profit organization based in Marrakech. It aims to promote cultural, educational, and economic exchanges between Morocco and Germany.",
+    "cta": {
+      "member": "Become a member",
+      "donate": "Donate",
+      "register": "Register for an activity"
+    }
+  },
+  "about": {
+    "history": {
+      "title": "Our History",
+      "content": "Presentation of the foundation of the association and its motivations. Explanation of the link between Morocco and Germany."
+    },
+    "mission": {
+      "title": "Our Mission and Values",
+      "mission": "Promote cultural, economic, and academic exchanges between Morocco and Germany.",
+      "values": "Sharing, respect, diversity, innovation, cooperation."
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "Presentation of the executive board with photos and short biographies. Mention of active members and institutional partners."
+    }
+  },
+  "activities": {
+    "language": {
+      "title": "German Language Courses 🇩🇪",
+      "content": "Organization of courses for beginners and advanced learners. Online and in-person courses. Available certifications and exams."
+    },
+    "cultural": {
+      "title": "Cultural Events 🎭",
+      "content": "German film festivals. Art exhibitions and literary meetings. Conferences on German history and culture."
+    },
+    "education": {
+      "title": "Educational Exchanges 🎓",
+      "content": "Mobility programs for students and teachers. Partnerships with German universities and schools. Workshops and seminars on studies and scholarships in Germany."
+    },
+    "economic": {
+      "title": "Economic Cooperation 💼",
+      "content": "Connecting Moroccan and German entrepreneurs. Economic forums and networking. Conferences on business opportunities in Germany."
+    },
+    "support": {
+      "title": "Support for Moroccans in Germany & Germans in Morocco 🏡",
+      "content": "Guidance and advice for Moroccans wishing to go to Germany. Reception and support for Germans living in Morocco. Help with administrative procedures and cultural integration."
+    }
+  },
+  "news": {
+    "title": "News & Blog",
+    "description": "Latest news on Moroccan-German relations. In-depth articles on the culture and economy of both countries. Testimonials from students and professionals who have benefited from the association's activities."
+  },
+  "partnerships": {
+    "title": "Partnerships & Collaborations",
+    "description": "Partner institutions (e.g., embassies, Goethe-Institut, DAAD, German companies). Partner universities and schools. Joint projects with other cultural associations."
+  },
+  "gallery": {
+    "title": "Gallery",
+    "description": "Photos and videos of past events and activities. Testimonials and interviews with members and participants."
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "description": "Experiences of former language course participants. Opinions of students who have benefited from educational exchanges. Testimonials from entrepreneurs who have found opportunities through the association."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send"
+    },
+    "membership": {
+      "title": "Become a Member",
+      "description": "Membership conditions. Member benefits.",
+      "button": "Sign up"
+    },
+    "donate": {
+      "title": "Donate",
+      "description": "Explanation of the use of donations.",
+      "button": "Donate"
+    }
+  },
+  "footer": {
+    "legal": "Legal Notice",
+    "privacy": "Privacy Policy",
+    "sitemap": "Site Map",
+    "partners": "Partners"
+  }
+}
+

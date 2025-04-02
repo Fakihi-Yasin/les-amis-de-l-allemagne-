@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "activities": "Unsere Aktivitäten",
+    "news": "Neuigkeiten & Blog",
+    "partnerships": "Partnerschaften",
+    "gallery": "Galerie",
+    "testimonials": "Erfahrungsberichte",
+    "contact": "Kontakt & Mitgliedschaft"
+  },
+  "home": {
+    "slogan": "Brücken bauen zwischen Marokko und Deutschland",
+    "intro": "Der Verein der Freunde Deutschlands ist eine gemeinnützige Organisation mit Sitz in Marrakesch. Sie zielt darauf ab, den kulturellen, bildungsbezogenen und wirtschaftlichen Austausch zwischen Marokko und Deutschland zu fördern.",
+    "cta": {
+      "member": "Mitglied werden",
+      "donate": "Spenden",
+      "register": "Für eine Aktivität anmelden"
+    }
+  },
+  "about": {
+    "history": {
+      "title": "Unsere Geschichte",
+      "content": "Vorstellung der Gründung des Vereins und seiner Motivationen. Erklärung der Verbindung zwischen Marokko und Deutschland."
+    },
+    "mission": {
+      "title": "Unsere Mission und Werte",
+      "mission": "Förderung des kulturellen, wirtschaftlichen und akademischen Austauschs zwischen Marokko und Deutschland.",
+      "values": "Teilen, Respekt, Vielfalt, Innovation, Zusammenarbeit."
+    },
+    "team": {
+      "title": "Unser Team",
+      "description": "Vorstellung des Vorstands mit Fotos und kurzen Biografien. Erwähnung der aktiven Mitglieder und institutionellen Partner."
+    }
+  },
+  "activities": {
+    "language": {
+      "title": "Deutschkurse 🇩🇪",
+      "content": "Organisation von Kursen für Anfänger und Fortgeschrittene. Online- und Präsenzkurse. Verfügbare Zertifizierungen und Prüfungen."
+    },
+    "cultural": {
+      "title": "Kulturelle Veranstaltungen 🎭",
+      "content": "Deutsche Filmfestivals. Kunstausstellungen und literarische Begegnungen. Konferenzen über deutsche Geschichte und Kultur."
+    },
+    "education": {
+      "title": "Bildungsaustausch 🎓",
+      "content": "Mobilitätsprogramme für Studierende und Lehrkräfte. Partnerschaften mit deutschen Universitäten und Schulen. Workshops und Seminare zu Studium und Stipendien in Deutschland."
+    },
+    "economic": {
+      "title": "Wirtschaftliche Zusammenarbeit 💼",
+      "content": "Vernetzung marokkanischer und deutscher Unternehmer. Wirtschaftsforen und Networking. Konferenzen über Geschäftsmöglichkeiten in Deutschland."
+    },
+    "support": {
+      "title": "Unterstützung für Marokkaner in Deutschland & Deutsche in Marokko 🏡",
+      "content": "Orientierung und Beratung für Marokkaner, die nach Deutschland gehen möchten. Empfang und Begleitung von Deutschen, die in Marokko leben. Hilfe bei administrativen Verfahren und kultureller Integration."
+    }
+  },
+  "news": {
+    "title": "Neuigkeiten & Blog",
+    "description": "Aktuelle Nachrichten über die marokkanisch-deutschen Beziehungen. Hintergrundartikel über Kultur und Wirtschaft beider Länder. Erfahrungsberichte von Studierenden und Fachleuten, die von den Aktivitäten des Vereins profitiert haben."
+  },
+  "partnerships": {
+    "title": "Partnerschaften & Kooperationen",
+    "description": "Partnerinstitutionen (z.B. Botschaften, Goethe-Institut, DAAD, deutsche Unternehmen). Partneruniversitäten und -schulen. Gemeinsame Projekte mit anderen Kulturvereinen."
+  },
+  "gallery": {
+    "title": "Galerie",
+    "description": "Fotos und Videos von vergangenen Veranstaltungen und Aktivitäten. Erfahrungsberichte und Interviews mit Mitgliedern und Teilnehmern."
+  },
+  "testimonials": {
+    "title": "Erfahrungsberichte",
+    "description": "Erfahrungen ehemaliger Sprachkursteilnehmer. Meinungen von Studierenden, die vom Bildungsaustausch profitiert haben. Erfahrungsberichte von Unternehmern, die durch den Verein Chancen gefunden haben."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "message": "Nachricht",
+      "submit": "Senden"
+    },
+    "membership": {
+      "title": "Mitglied werden",
+      "description": "Mitgliedschaftsbedingungen. Vorteile für Mitglieder.",
+      "button": "Anmelden"
+    },
+    "donate": {
+      "title": "Spenden",
+      "description": "Erklärung zur Verwendung der Spenden.",
+      "button": "Spenden"
+    }
+  },
+  "footer": {
+    "legal": "Rechtliche Hinweise",
+    "privacy": "Datenschutzrichtlinie",
+    "sitemap": "Seitenübersicht",
+    "partners": "Partner"
+  }
+}
+

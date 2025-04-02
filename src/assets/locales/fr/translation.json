@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos de nous",
+    "activities": "Nos Activités",
+    "news": "Actualités & Blog",
+    "partnerships": "Partenariats",
+    "gallery": "Galerie",
+    "testimonials": "Témoignages",
+    "contact": "Contact & Adhésion"
+  },
+  "home": {
+    "slogan": "Construire des ponts entre le Maroc et l'Allemagne",
+    "intro": "L'Association des Amis de l'Allemagne est une organisation à but non lucratif basée à Marrakech. Elle vise à promouvoir les échanges culturels, éducatifs et économiques entre le Maroc et l'Allemagne.",
+    "cta": {
+      "member": "Devenir membre",
+      "donate": "Faire un don",
+      "register": "S'inscrire à une activité"
+    }
+  },
+  "about": {
+    "history": {
+      "title": "Notre Histoire",
+      "content": "Présentation de la fondation de l'association et de ses motivations. Explication du lien entre le Maroc et l'Allemagne."
+    },
+    "mission": {
+      "title": "Notre Mission et Nos Valeurs",
+      "mission": "Promouvoir les échanges culturels, économiques et académiques entre le Maroc et l'Allemagne.",
+      "values": "Partage, respect, diversité, innovation, coopération."
+    },
+    "team": {
+      "title": "Notre Équipe",
+      "description": "Présentation du bureau exécutif avec photos et biographies courtes. Mention des membres actifs et partenaires institutionnels."
+    }
+  },
+  "activities": {
+    "language": {
+      "title": "Cours de Langue Allemande 🇩🇪",
+      "content": "Organisation de cours pour débutants et avancés. Cours en ligne et en présentiel. Certifications et examens disponibles."
+    },
+    "cultural": {
+      "title": "Événements Culturels 🎭",
+      "content": "Festivals de cinéma allemand. Expositions artistiques et rencontres littéraires. Conférences sur l'histoire et la culture allemande."
+    },
+    "education": {
+      "title": "Échanges Éducatifs 🎓",
+      "content": "Programmes de mobilité pour étudiants et enseignants. Partenariats avec universités et écoles allemandes. Ateliers et séminaires sur les études et bourses en Allemagne."
+    },
+    "economic": {
+      "title": "Coopération Économique 💼",
+      "content": "Mise en relation d'entrepreneurs marocains et allemands. Forums économiques et networking. Conférences sur les opportunités d'affaires en Allemagne."
+    },
+    "support": {
+      "title": "Soutien aux Marocains en Allemagne & aux Allemands au Maroc 🏡",
+      "content": "Orientation et conseils pour les Marocains souhaitant partir en Allemagne. Accueil et accompagnement des Allemands vivant au Maroc. Aide aux démarches administratives et intégration culturelle."
+    }
+  },
+  "news": {
+    "title": "Actualités & Blog",
+    "description": "Dernières nouvelles sur les relations maroco-allemandes. Articles de fond sur la culture et l'économie des deux pays. Témoignages d'étudiants et professionnels ayant bénéficié des activités de l'association."
+  },
+  "partnerships": {
+    "title": "Partenariats & Collaborations",
+    "description": "Institutions partenaires (ex. ambassades, Goethe-Institut, DAAD, entreprises allemandes). Universités et écoles partenaires. Projets communs avec d'autres associations culturelles."
+  },
+  "gallery": {
+    "title": "Galerie",
+    "description": "Photos et vidéos des événements et activités passées. Témoignages et interviews de membres et participants."
+  },
+  "testimonials": {
+    "title": "Témoignages",
+    "description": "Expériences d'anciens participants aux cours de langue. Avis d'étudiants ayant bénéficié des échanges éducatifs. Témoignages d'entrepreneurs ayant trouvé des opportunités via l'association."
+  },
+  "contact": {
+    "title": "Nous Contacter",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Envoyer"
+    },
+    "membership": {
+      "title": "Devenir Membre",
+      "description": "Conditions d'adhésion. Avantages des membres.",
+      "button": "S'inscrire"
+    },
+    "donate": {
+      "title": "Faire un Don",
+      "description": "Explication de l'utilisation des dons.",
+      "button": "Faire un don"
+    }
+  },
+  "footer": {
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "sitemap": "Plan du site",
+    "partners": "Partenaires"
+  }
+}
+
